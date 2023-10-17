@@ -1,0 +1,21 @@
+welt-yang:
+  basic: 20
+  skill: 30
+  ultimate: 115
+
+welt-yang-a4:
+  basic: 20
+  skill: 30
+  ultimate: 105
+
+welt-yang-a4-e2:
+  basic: 20
+  skill: 30
+  ultimate: 105
+  talent: 3
+
+welt-yang-a4-e6:
+  basic: 20
+  skill: 40
+  ultimate: 105
+  talent: 3
